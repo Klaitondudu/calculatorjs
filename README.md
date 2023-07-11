@@ -12,7 +12,7 @@ O projeto se trata de uma calculadora desenvolvida em React.js com um backend em
   npm install
   ```
 - **Passo 3**:
-  Configure o arquvio `config.json` com os dados do banco de dados SQL SERVER que será utilizado (Não esqueça de ter criado já a database. ative o `SYNC: true` para que o sequelize crie as tabelas automaticamente.
+  Configure o arquivo `config.json` com os dados do banco de dados SQL SERVER que será utilizado (Não esqueça de ter criado já a database. ative o `SYNC: true` para que o sequelize crie as tabelas automaticamente.
   ```bash
   {
       "DB": {
