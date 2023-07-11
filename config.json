@@ -1,0 +1,22 @@
+{
+  "DB": {
+    "IP": {
+      "value": "localhost"
+    },
+    "PORT": {
+      "value": 1433
+    },
+    "USER": {
+      "value": "sa"
+    },
+    "PASSWORD": {
+      "value": "admin123"
+    },
+    "DATABASE": {
+      "value": "calculadora"
+    },
+    "SYNC": {
+      "value": false
+    }
+  }
+}
